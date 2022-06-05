@@ -1,0 +1,25 @@
+This application run two basic loops, Admin loop and Customer loop.
+
+Run first Customer loop and create a customer.
+
+Perform some actions with the customer, add funds, check your balance and buy some pets. (check if discount is applied)
+
+You can reset the application, from the app menu, and create as much customers as you want. (One by one)
+
+Once you have some customers and you have reset the application from the app menu (dont kill the app), 
+you can run the application as an admin. 
+
+The admin loop has just two simple things two show, list of customers previously created and the 
+popularity of the pets. (That's why to create customers and buy pets with them are a must previous step,
+otherwise the admin loop will have nothing to show.)
+
+
+I hope yoou like what I have done. I have had no time to extend and implement more thigns to this project.
+The coursework is really demanding for my level and it is taking so much time. There are 3 more modules and 3 more projects. 
+I will try to create a better app this summer inspired in this one. Thank you for everything. 
+
+Have a nice one.
+
+Daniel
+
+
